@@ -1,0 +1,9 @@
+[submodule "Venn_Diagrams"]
+	path = Venn_Diagrams
+	url = https://github.com/EducationShinyAppTeam/Venn_Diagrams
+[submodule "Law_of_Large_Numbers"]
+	path = Law_of_Large_Numbers
+	url = https://github.com/EducationShinyAppTeam/Law_of_Large_Numbers
+[submodule "Central_Limit_Theorem"]
+	path = Central_Limit_Theorem
+	url = https://github.com/EducationShinyAppTeam/Central_Limit_Theorem
