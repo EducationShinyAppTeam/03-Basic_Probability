@@ -7,3 +7,6 @@
 [submodule "Central_Limit_Theorem"]
 	path = Central_Limit_Theorem
 	url = ../Central_Limit_Theorem
+[submodule "Tree_Diagrams"]
+	path = Tree_Diagrams
+	url = ../Tree_Diagrams
